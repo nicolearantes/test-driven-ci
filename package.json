@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicolearantes/test-driven-ci/issues"
   },
-  "homepage": "https://github.com/nicolearantes/test-driven-ci#readme"
+  "homepage": "https://github.com/nicolearantes/test-driven-ci#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
