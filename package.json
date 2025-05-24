@@ -1,0 +1,19 @@
+{
+  "name": "test-driven-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolearantes/test-driven-ci.git"
+  },
+  "author": "Nicole Arantes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolearantes/test-driven-ci/issues"
+  },
+  "homepage": "https://github.com/nicolearantes/test-driven-ci#readme"
+}
