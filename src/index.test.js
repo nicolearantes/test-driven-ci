@@ -1,6 +1,8 @@
-import { expect, test } from 'vitest'
+import { expect, test, describe } from "vitest";
 import { helloWorld } from "./index";
 
-test('test', () => {
-    expect(helloWorld()).toBe('Hello World')
-})
+describe("index", () => {
+  test("Works as expected", () => {
+    expect(helloWorld()).toBe("Hello World");
+  });
+});
