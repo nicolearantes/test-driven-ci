@@ -1,5 +1,5 @@
 import { expect, test, describe } from "vitest";
-import { helloWorld } from "./index";
+import { helloWorld } from "./index.js";
 
 describe("index", () => {
   test("Works as expected", () => {
